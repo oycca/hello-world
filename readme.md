@@ -417,6 +417,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Harbour](h/Harbour.prg)
 * [Hare](h/Hare.ha)
 * [Haskell](h/Haskell.hs)
+* [Hava] (h/Hava.java)
 * [Haxe](h/Haxe.hx)
 * [haystack](h/haystack.hstk)
 * [Hello](h/Hello)
